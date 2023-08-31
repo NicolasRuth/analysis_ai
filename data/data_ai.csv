@@ -1,0 +1,96 @@
+﻿code;month;year;coder;magazine;ressort;ressort;type;relevance;main_sub;ai_topic_1;ai_topic_2;ai_topic_3;topic;people_1;people_2;people_3;companies_1;companies_2;companies_3;framing;eou_tam;usa_tam;enj_tam
+1;3;2022;LW;Musikwoche;Live;Digitale Horizonterweiterung;Beitrag;1;2;KI;;;Forschung;;;;Future Demand;;;0;;;
+2;3;2022;LW;Musikwoche;Dossier;Branche ist offen für neue Technologien;Beitrag;1;2;KI;Algorithmen;;Ticketvertrieb;;;;Future Demand;;;2;1;1;0
+3;6;2022;LW;Musikwoche;Recorded & Publishing;Songtradr übernimmt Musicube;Beitrag;1;2;KI;neuronale Netze;;Musikvertrieb;;;;Songtradr;musicube;;1;1;1;
+4;10;2021;LW;Musikwoche;News;musicube zieht Finanzspritze auf ;Meldung;1;2;KI;;;Musikvertrieb;David Hoga;Holger Hübner;Agnes Chung;musicube;Next Media Accelerator;;1;1;1;
+5;10;2021;LW;Musikwoche;News;Beethoven Orchester Bonn;Meldung;1;1;KI;AI;;Musikproduktion;Dirk Kaftan;;;Beethoven Orchester Bonn;Modern Recordings /BMG;;0;;;0
+6;11;2022;LW;Musikwoche;Die Woche;Claudia Roth setzte sich für Kreative ein;Meldung;1;2;KI;;;Urheberrecht;Claudia Roth;;;;;;0;;;
+7;12;2022;LW;Musikwoche;k.A.;Vier Start-Ups bewegen sich;Beitrag;1;2;KI;;;Musikmanagement;;;;connactz;WorkX Incubator;;1;;1;
+8;11;2022;LW;Sound & Recording;Stories;Audio Watermarking verursacht teils hörbare Artefakte;Beitrag;1;1;Algorithmen;;;Musikproduktion;Matt Montag;;;YouTube Music;Spotify;Google;-1;-1;-1;
+9;12;2022;LW;Sound & Recording;Stories;Das neue Stereo – Dolby Atmos auf dem Vormarsch;Beitrag;1;1;Algorithmen;;;Audio;;;;Dolby Atmos;;;1;1;1;1
+10;3;2021;LW;NMZ;k.A.;Aufbruch in eine vielfältige Zukunft;Beitrag;1;2;Algorithmen;Artificial Intelligence;Machine Learning;Forschung;;;;Hochschule für Musik und Darstellende Kunst Mannheim;;;1;;1;
+11;3;2021;LW;NMZ;k.A.;Aufbruchstimmung und Begeisterung für neue Musik;Interview;1;2;KI;;;Musikproduktion;Peter Florian;;;;;;-1;;;
+12;5;2021;LW;NMZ;k.A.;Digitalität und Künstliche Intelligenz;Beitrag;1;2;KI;;;Forschung;;;;HfM Trossingen;;;2;;1;
+13;6;2021;LW;NMZ;k.A.;Ein Duett mit dem Geist in der Maschine;Beitrag;1;2;KI;;;Forschung;;;;Technischen Hochschule Nürnberg;Hochschule für Musik Nürnberg;;2;;1;1
+14;8;2021;LW;NMZ;k.A.;Ein sensibles, ein schwieriges Kapitel;Interview;1;2;Algorithmen;;;Urheberrecht;Moritz Eggert;Julia Reda;;;;;-2;;-1;
+15;8;2021;LW;NMZ;k.A.;Gute Nacht;Kommentar;1;1;Algorithmen;;;Spielplanerstellung;;;;;;;-1;;;
+16;12;2021;LW;NMZ;k.A.;Hervorragendes Innovationspotenzial;;1;2;KI;;;Forschung;;;;Hochschule für Musik Nürnberg;;;1;;;
+17;12;2021;LW;NMZ;k.A.;KI Service und Systeme – KISS;Beitrag;1;1;KI;Cognitive Robotics;;Forschung;;;;HfM Trossingen;;;2;;1;
+18;1;2022;LW;NMZ;k.A.;Künstliche Intelligenz in der Musikvermittlung;Interview;1;2;KI;;;Forschung;Karl-Heinz Simon;;;Hochschule für Musik in Dresden;;;-1;;1;
+19;5;2022;LW;NMZ;k.A.;Mit Don Quixote in eine hybride Zukunft;Beitrag;1;2;KI;;;Musikproduktion;;;;;;;0;;;0
+20;5;2022;LW;NMZ;k.A.;Unterrichten in Zeiten von Corona;Beitrag;1;2;KI;;;Musikproduktion;Moritz Eggert;;;;;;-2;;-1;0
+21;10;2022;LW;NMZ;k.A.;Wenn die Flucht zur tödlichen Falle wird;Kritik;1;2;KI;;;Musikproduktion;;;;Theater Freiburg;;;0;;;1
+22;7;2021;LW;Groove;k.A.;Adi Gelbart & Kammerensemble: Videopremiere von „Alpha’s 7th Poem”;Kritik;1;1;KI;;;Musikproduktion;Adi Gelbart;;;Kammerensemble KNM Berlin;;;1;;;1
+23;4;2022;LW;Groove;k.A.;Electro im Kunstpalast Düsseldorf: Nachdenken über das Identitätsspiel;Kritik;1;2;KI;;;Musikproduktion;Mouse on Mars;;;Kunstpalast Düsseldorf;;;0;;;1
+24;3;2021;LW;Groove;k.A.;Irakli: Die Erzählung im Hinterkopf;Beitrag;1;2;KI;;;Musikproduktion;Irakli;;;;;;0;;;
+25;9;2022;LW;Groove;k.A.;Lunchmeat Festival: Das Line-up steht fest;Beitrag;1;1;KI;;;Musikfestival;;;;;;;2;;1;
+26;6;2022;LW;Groove;k.A.;moers festival: Interview mit künstlerischem Leiter Tim Isfort;Interview;1;2;KI;Algorithmen;;Musikfestival;Tim Isfort;;;;;;2;;1;1
+27;4;2022;LW;Groove;k.A.;Mouse on Mars & Dodo NKishi: Tickets fürs Konzert im Kunstpalast zu gewinnen!;Meldung;1;2;KI;AI;;Musikproduktion;Mouse on Mars;Dodo NKishi;;;;;0;;;
+28;6;2022;LW;Groove;k.A.;Sónar Barcelona: 3×2 Festivalpässe für 176 Veranstaltungen zu gewinnen;Meldung;1;2;KI;;;Musikfestival;;;;;;;0;;;
+29;12;2022;LW;Groove;k.A.;Sónar Lisboa 2023: Erste Line-upAnkündigung;Meldung;1;2;KI;;;Musikfestival;;;;;;;0;;;1
+30;1;2022;LW;Groove;k.A.;Sónar: Vollständiges Line-Up und weitere Infos für Lissabon-Debüt bekannt;Beitrag;1;2;KI;;;Musikfestival;;;;;;;1;;;1
+31;8;2021;LW;Groove;k.A.;Trackpremiere: c/a – WEWILLHELPYOUREGROW (Hodge Remix);Kritik;1;2;KI;;;Musikproduktion;Hodge;;;;;;1;;;1
+32;2;2021;LW;Groove;k.A.;Motherboard: Februar 2021;Kritik;1;2;KI;;;Musikproduktion;Mouse on Mars;;;;;;1;;1;1
+33;9;2021;LW;Groove;k.A.;Motherboard: September 2021;Kritik;1;2;KI;AI;Algorithmen;Musikproduktion;Lee Gamble;;;;;;1;;;1
+1;4;2017;NR;NMZ;Pädagogik;Musikalische Metakreation als Herausforderung;Beitrag;1;1;KI ;Neuronale Netzwerke;;Musikkreation;John Biles;;;Alpha Go;International Workshop on Musical Metacreation;;1;-1;1;1
+2;11;2018;NR;NMZ;Szene;Musikschule – vernetzt;Beitrag;1;2;KI;;;Musikschule;;;;;;;0;0;1;0
+3;11;2018;NR;NMZ;Kritik;Aufstieg eines Untergehers, Partnerschaft der Maschine;Kritik;1;2;KI;;;Musikfestival;Steven Spielberg;;;;;;-1;;;
+4;3;2018;NR;NMZ;Szene;Codes in analoger und digitaler Wirklichkeit;Beitrag;1;2;Maschinelles Lernn;;;Museum;;;;;;;0;;;
+5;3;2018;NR;NMZ;Glossen;Tückische Vorzeichen;Kommentar;1;1;KI;;;Komponieren;;;;;;;-1;;;
+5;12;2017;NR;Sound & Recording;Story;Komponieren mit künstlicher Intelligenz;Interview;1;1;KI;;;Komponieren;Francisco Tigre Moura;;;;;;0;;;
+6;8;2017;NR;Musikwoche;Recorded & Publishing;VUT zeigt auch in Hamburg Haltung;Beitrag;1;2;KI;;;Indie Days;;;;VUT;;;0;;;
+7;3;2018;NR;Musikwoche;Dossier;Hallen glänzen digital;Beitrag;1;2;KI;;;Livemusik;;;;;;;0;;;
+8;6;2018;NR;Musikwoche;News;Laser und Warner gehen getrennte Wege;Meldung;1;2;KI;;;Musikindustrie;;;;;;;0;;;
+9;8;2018;NR;Musikwoche;News;Most Wanted: Music zieht um und stockt Liveprogramm auf;Beitrag;1;2;KI;;;Most Wanted Konferenz;;;;;;;0;;;
+10;8;2018;NR;Musikwoche;Dossier;Jubel vor Kölner Kulisse;Beitrag;1;2;KI;;;c/o pop Konferenz;Stefan Holtel;;;;;;0;;;
+11;9;2018;NR;Musikwoche;Dossier;Bereit für die nächsten 15 Jahre;Beitrag;1;2;KI;;;c/o pop Konferenz;Seda Röder;;;;;;0;;;
+12;11;2018;NR;Musikwoche;Recorded & Publishing;Transformation der Alten Münze;Beitrag;1;2;KI;;;Most Wanted Konferenz;;;;;;;0;;;
+13;11;2018;NR;Musikwoche;Dossier;Wie verkaufen wir künftig Karten?;Beitrag;1;2;KI;;;Ticketing;Klaus Zemke;;;;;;0;;;
+14;11;2018;NR;Musikwoche;News;Most Wanted: Music zieht am Eröffnungstag die Mengen N;Beitrag;1;2;KI;;;Most Wanted Konferenz;;;;;;;0;;;
+15;11;2018;NR;Musikwoche;Recorded & Publishing;c/0 pop Festival positioniert sich neu;Beitrag;1;2;KI;;;c/o pop Konferenz;;;;;;;0;;;
+16;2;2018;NR;Groove;Event;CTM Festival 2018: Unbehagen und Underground (Review);Beitrag;1;2;KI;Maschinelles Lernen;Algorithmen;Musikproduktion;Peter Kirn;Ionn Maria;Gene Kogan;;;;0;0;1;-1
+17;5;2018;NR;Groove;;Künstliche Intelligenz und Musik: Von maßgeschneiderter Musik und digitalen Alter Egos;Beitrag;1;1;KI;;;Musikproduktion;;;;;;;0;;;
+18;9;2018;NR;Backspin;;Chefboss x Porsche – Kira unterwegs beim #NextLevelGermanEngineering Roadtrip;Beitrag;1;2;KI;;;Albumveröffentlichung;Chefboss;;;Porsche;;;0;;;
+1;1;2019;KMZ;Musikwoche;Recorded & Publishing;Mit Fanvestory investieren Fans direkt in die Musik;Beitrag;1;1;KI;;;Lizenzierung/Start-up;Birgit Karus;;;Fanvestory;finetunes;The Orchard;2;1;1;
+2;1;2019;KMZ;Musikwoche;Recorded & Publishing;Bookwire steigert Umsatz im Audiobereich um 44 Prozent;Beitrag;1;2;KI;;;Hörbücher;Jens Klingelhöfer;;;Bookwire;;;1;;;
+3;1;2019;KMZ;Musikwoche;Dossier;Ein Anfang und ein Abschied;Beitrag;1;2;KI;;;Festival;Peter Schmidt;Scott Cohen;;Eurosonic Noorderslag;The Orchard;;0;;;
+4;1;2019;KMZ;Musikwoche;Live;DEAG übernimmt Springer-Anteile von myticket;Beitrag;1;1;KI;;;Ticketing;Peter Schwenkow;;;DEAG;myticket;Axel Springer;2;1;1;
+5;1;2019;KMZ;Musikwoche;Zitat der Woche;Zitat der Woche;Meldung;1;1;KI;;;Ethik;Helga Trüpel;;;TUM;;;-1;;;
+6;2;2019;KMZ;Musikwoche;Live;Schlussverkauf in der Konzertbranche;Beitrag;1;2;KI;;;Musikfestival;Michael Novogratz;Peter Schwenkow;;DEAG;Galaxy Digital;;0;;;
+7;2;2019;KMZ;Musikwoche;Dossier;Ausbilder bauen Stundenpläne um;Beitrag;1;1;KI;;;Forschung/Bildung;Holger Schramm;Hubert Wandjo;Eva Maria Stöckler;Universität Würzburg;Popakademie Mannheim;Donau-Universität;1;;1;
+8;3;2019;KMZ;Musikwoche;Recorded & Publishing;Operation Ton wagt den Spagat zwischen Subkultur und Musikbranche;Beitrag;1;2;KI;;;Konferenz;Andrea Rothaug;;;RockCity;;;0;;;
+9;3;2019;KMZ;Musikwoche;Recorded & Publishing;Musikautoren setzen im Konfettiregen ein kreatives Zeichen;Beitrag;1;2;KI;;;Preisverleihung;Harald Heker;Ralf Weigand;;GEMA;;;0;;;
+10;5;2019;KMZ;Musikwoche;News;Programm für Future Music Camp ist komplett;Meldung;1;1;KI;;;Konferenz;Hubert Wandjo;Steffen Geldner;Tom Dreiseitel;Popakademie BW;Youtube;Google Play Music;0;;;
+11;5;2019;KMZ;Musikwoche;Live;Der Anfang vom Ende?;Beitrag;1;1;KI;Dynamic Pricing;;Ticketing;Klaus Zemke;Sandro Spieß;Morizt Schwenkow;Ticketmaster;Eventbrite;myticket;2;1;1;
+12;5;2019;KMZ;Musikwoche;Recorded & Publishing;Future Music Camp auf der Spur von KI und Algorithmen;Beitrag;1;1;KI;Algorithmen;Chatbot;Konferenz;Hubert Wandjo;Steffen Geldner;Tom Dreiseitel;Popakademie BW;Youtube;Google Play Music;1;;;
+13;7;2019;KMZ;Musikwoche;Recorded & Publishing;Künstliche Intelligenz soll Emotionen von Musik zeigen;Beitrag;1;1;KI;;;Start-up/Forschung;Markus Schwarzer;Jakob Höflich;Joshua Weikert;Cyanite;Groovecat;Popakademie BW;1;;1;
+14;7;2019;KMZ;Musikwoche;Dossier;Podcasts auf dem Höhenflug;Beitrag;1;2;KI;;;Podcast;Michael Krause;;;Bitkom;Spotify;Gimlet Media;0;;;
+15;8;2019;KMZ;Musikwoche;Recorded & Publishing;Das innerstädtische Club- und Venue-Sterben macht mir Kummer;Beitrag/Umfrage;1;2;KI;AR;;Musikwirtschaft;;;;;;;0;;;
+16;9;2019;KMZ;Musikwoche;Dossier;Unabhängig auf der Reeperbahn;Beitrag;1;2;KI;;;Musikfestival;Jörg Heidemann;;;VUT;;;0;;;
+17;9;2019;KMZ;Musikwoche;Die Woche;von der Leyen setzt Vestager auf den Digitalmarkt an;Meldung;1;2;KI;;;Politik;Margrethe Vestager;;;;;;0;;;
+18;10;2019;KMZ;Musikwoche;Die Woche;Medientage München rücken KI und Podcasts in den Fokus;Meldung;1;1;KI;;;Konferenz;Steve Boom;;;Amazon Music;;;0;;;
+19;11;2019;KMZ;Musikwoche;Recorded & Publishing;Mit der Blockchain langjährige Probleme lösen;Beitrag;1;1;KI;;;Lizenzierung;Stefan Schulz;Johannes Cordes;;Universal Music;Bitfury Surround;Youtube;2;;1;
+20;11;2019;KMZ;Musikwoche;Recorded & Publishing;MW:M setzte Impulse zur Zukunft der Kreativität;Beitrag;1;1;KI;AR;;Musikvertrieb;Scott Cohen;Florian Drücke;;Warner Music Group;Youtube;;2;;1;
+21;11;2019;KMZ;Musikwoche;Bonustrack;Ilona Jarabek;Meinung;1;2;KI;;;Innovation;;;;EVVC;;;0;;1;
+22;12;2019;KMZ;Musikwoche;Akquisition;37,5 Mio.;Meldung;1;2;KI;;;Musikproduktion;;;;Sonos;Snips;;0;;;
+23;12;2019;KMZ;Musikwoche;Dossier;Die Musiklandschaft ist digitaler, differenzierter und deutschsprachiger;Interview;1;2;KI;Streaming;Machine Learning;Musikvertrieb;Frank Briegmann;Bernd Dopp;Florian Drücke;Universal Music;Warner Music;Bundesverband Musikindustrie;2;1;1;
+24;1;2020;KMZ;Musikwoche;Dossier;Die Branche muss kulturpolitisch Farbe bekennen;Interview;1;2;KI;;;Musikwirtschaft;Frank Briegmann;Florian Drücke;Bernd Dopp;Universal Music;Bundesverband Musikindustrie;Warner Music;1;;1;
+25;5;2020;KMZ;Musikwoche;Recorded & Publishing;Time flies when you are having fun;Interview;1;1;KI;;;Musikwirtschaft;Manlio Celotti;;;The Orchard;Membran;Sony Music;1;;;
+26;6;2020;KMZ;Musikwoche;Alben der Woche;Gratwanderung zwischen Mensch und Maschine;Kritik;1;2;KI;;;Musikproduktion;Long Distance Calling;;;;;;0;;;
+27;11;2020;KMZ;Musikwoche;Recorded & Publishing;Musicube sucht das passende Match für Songs;Beitrag;1;1;KI;;;Streaming/Forschung;David Hoga;Agnes Chung;;Musicube;Phononet;Sony Music;1;1;1;
+28;1;2020;KMZ;NMZ;k.A.;Beethoven ist personifizierte Regelverletzung;Beitrag;1;1;KI;Algorithmen;;Musikproduktion;Matthias Röder;Ahmed Elgammal;Mark Gotham;Karajan-Institut;Deutsche Telekom;Huawei;0;;;
+29;2;2020;KMZ;NMZ;k.A.;Es gibt Anlass zu Optimismus;Interview;1;2;KI;;;Forschung/Bildung;Tilman Fischer;;;Rheinische Musikschule Köln;;;-1;;;
+30;3;2020;KMZ;NMZ;k.A.;Gründungszentrum Wavelab nimmt seine Arbeit auf;Beitrag;1;1;KI;;;Forschung/Bildung;Jule Schröder;Antonia Wach;Maurice Lausberg;HMTM;;;1;;;
+31;3;2020;KMZ;NMZ;k.A.;Neuer Forschungsbereich: Künstliche Intelligenz in der Kultur;Interview;1;1;KI;;;Forschung/Bildung;Mariya Dzhimova;;;HMTM;;;1;;;
+32;3;2020;KMZ;NMZ;k.A.;#ChallengeAccepted;Beitrag;1;1;KI;;;Forschung/Bildung;Frizz Lauterbach;Jule Schröder;Mariya Dzhimova;HMTM;;;2;;;
+33;3;2019;KMZ;Backspin;k.A.;Ellesse führt künstliche Intelligenz in die Modebranche ein;Beitrag;1;1;KI;;;Mode;Shudu;Simon Breckon;;ellesse;;;0;;;
+34;8;2020;KMZ;Backspin;k.A.;Die Hohe Fünf mit Mathias Liegmal - Wird künstliche Intelligenz Rapper*innen ersetzen?;Interview;1;1;KI;Deepfakes;;Musikproduktion;Mathias Liegmal;Francois Pachet;Miku Hatsune;Flow Machines;Spotify;;-1;;;
+35;2;2019;KMZ;Groove;k.A.;Acid Techno und Steampunk BDSM: Das CTM 2019 in fünf Highlights;Beitrag;1;1;KI;;;Musikproduktion;Actress;Darren J. Cunningham;Young Paint;;;;-1;;;-1
+36;4;2019;KMZ;Groove;k.A.;Label: Central Processing Unit. Binäre Bestandsaufnahme.;Beitrag;1;1;KI;VR;;Musikproduktion;Chris Smith;Nick Bax;;Warp;Human Design;Central Processing Unit;2;;;
+37;5;2019;KMZ;Groove;k.A.;Holly Herndon: Laptop mit Körper;Interview;1;1;KI;ML;;Musikproduktion;Holly Herndon;Mat Dryhurst;Spawn;Facebook;Spotify;Instagram;-1;;;1
+38;10;2019;KMZ;Groove;k.A.;Motherboard: Oktober 2019;Beitrag;1;2;KI;ML;;Musikproduktion;Holly Herndon;Florian Hecker;Emtyset;;;;-1;;;0
+39;12;2019;KMZ;Groove;k.A.;Rewind 2019: 10 unvergessliche Momente;Beitrag;1;2;KI;;;Musikvertrieb;;;;;;;0;;;
+40;12;2019;KMZ;Groove;k.A.;Thank you A.I., very cool!;Kritik;1;1;KI;;;Musikproduktion;Holly Herndon;Spawn;Mat Dryhurst;;;;-1;;;-1
+41;12;2019;KMZ;Groove;k.A.;Dezember 2019: Die einschägigen Compilations;Beitrag;1;2;KI;;;Musikproduktion;;;;;;;0;;;
+42;3;2020;KMZ;Groove;k.A.;Matrixxman: Träumen Androiden von Kickdrums?;Interview;1;2;KI;Roboter;;Musikproduktion;Matrixxman;Vin Sol;;Soo Wavey;Planet X;;0;;;
+43;7;2020;KMZ;Groove;k.A.;Marcel Dettmann & Vril: Der Sound befindet sich schon in einem selbst;Interview;1;2;KI;;;Musikproduktion;Marcel Dettmann;Vril;;Bad Manners;200 Kilo;;-1;;;
