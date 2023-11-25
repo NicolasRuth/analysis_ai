@@ -115,8 +115,11 @@ plot_framing <- ggplot(df_framing,
                        fill = factor(framing))) +
   geom_bar(stat = "identity") +
   scale_fill_brewer(palette = "Blues") +
-  labs(x = "Negative to positive framing",
+  labs(x = "Framing",
        y = "Number of articles") +
+  scale_x_continuous(breaks = c(-2, -1, 0, 1, 2),
+                     labels = c("rejecting", "negative", "neutral",
+                                "positive", "favorable")) +
   theme(legend.position = "none")
 
 plot_framing
@@ -130,8 +133,18 @@ group_by(df, magazine) %>%
   ) %>%
   arrange(-mean)
 
+# Crosstable framing for tpoics
+cross_tab <- table(df$topic, df$framing)
+percentage_distribution <- prop.table(cross_tab, margin = 1) * 100
+print(cross_tab)
+print(percentage_distribution)
+
+# Chi-Squared-Test
+chi_test <- chisq.test(cross_tab)
+print(chi_test)
+
 # 7. TAM
-## Usability
+## Ease of Use
 df_easeofuse <- df %>%
   group_by(eou_tam) %>%
   summarise(Number = n())
@@ -143,24 +156,30 @@ plot_easeofuse <- ggplot(df_easeofuse,
   geom_bar(stat = "identity", fill = "brown3") +
   ylim(0, 10) +
   labs(x = "Perceived ease of use (TAM)",
-       y = "Number of articles")
+       y = "Number of articles") +
+scale_x_continuous(breaks = c(-1, 0, 1), labels = c("no ease of use", "neutral",
+                                                    "ease of use")) +
+  theme_minimal()
 
 plot_easeofuse
 
 ## Usefulness
-df_usability <- df %>%
+df_usefulness <- df %>%
   group_by(usa_tam) %>%
   summarise(Number = n())
 
-df_usability
+rbind(df_usefulness, c(0,0))
 
-plot_usability <- ggplot(df_usability, aes(x = usa_tam,
-                                             y = Number)) +
-  geom_bar(stat = "identity", fill = "cornsilk3") +
-  labs(x = "Perceived usability (TAM)",
-       y = "Number of articles")
+plot_usefulness <- ggplot(df_usefulness, aes(x = usa_tam, y = Number)) +
+  geom_bar(stat = "identity",
+           width = 0.9,
+           fill = "cornsilk3") +
+  labs(x = "Perceived usefulness (TAM)", y = "Number of articles") +
+  scale_x_continuous(breaks = c(-1, 0, 1), labels = c("not useful", "neutral",
+                                                      "useful")) +
+  theme_minimal()
 
-plot_usability
+plot_usefulness
 
 ## Enjoyment
 df_enjoyment <- df %>%
@@ -173,11 +192,15 @@ plot_enjoyment <- ggplot(df_enjoyment, aes(x = enj_tam,
                                            y = Number)) +
   geom_bar(stat = "identity", fill = "darksalmon") +
   labs(x = "Perceived enjoyment (TAM)",
-       y = "Number of articles")
+       y = "Number of articles") +
+  scale_x_continuous(breaks = c(-1, 0, 1), labels = c("not enjoyable", "neutral",
+                                                      "enjoyable")) +
+  theme_minimal()
 
 plot_enjoyment
 
-combinedTAM <- ggarrange(plot_easeofuse, plot_usability, plot_enjoyment,
+# Combined graph
+combinedTAM <- ggarrange(plot_easeofuse, plot_usefulness, plot_enjoyment,
                            ncol = 3, nrow = 1)
 
 combinedTAM
