@@ -21,9 +21,11 @@ plot_yearly <- ggplot(df, aes(as.factor(year)))
 plot_yearly + geom_bar(aes(fill = magazine)) +
   labs(fill = "Magazines",
        x = "Years",
-       y = "Number of articles")
-
-plot_yearly
+       y = "Number of articles") +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14),
+        legend.title = element_text(size = 14),
+        legend.text = element_text(size = 12))
 
 ## Differences between magazines
 
@@ -43,7 +45,9 @@ plot_by_magazine <- ggplot(df_by_magazine,
   labs(x = "Magazines",
        y = "Number of articles") +
   scale_fill_brewer(palette = "Reds") +
-  theme(legend.position = "none")
+  theme(legend.position = "none",
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14))
 
 plot_by_magazine
 
@@ -120,7 +124,9 @@ plot_framing <- ggplot(df_framing,
   scale_x_continuous(breaks = c(-2, -1, 0, 1, 2),
                      labels = c("rejecting", "negative", "neutral",
                                 "positive", "favorable")) +
-  theme(legend.position = "none")
+  theme(legend.position = "none",
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14))
 
 plot_framing
 
@@ -159,7 +165,9 @@ plot_easeofuse <- ggplot(df_easeofuse,
        y = "Number of articles") +
 scale_x_continuous(breaks = c(-1, 0, 1), labels = c("no ease of use", "neutral",
                                                     "ease of use")) +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14))
 
 plot_easeofuse
 
@@ -177,7 +185,9 @@ plot_usefulness <- ggplot(df_usefulness, aes(x = usa_tam, y = Number)) +
   labs(x = "Perceived usefulness (TAM)", y = "Number of articles") +
   scale_x_continuous(breaks = c(-1, 0, 1), labels = c("not useful", "neutral",
                                                       "useful")) +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14))
 
 plot_usefulness
 
@@ -195,7 +205,9 @@ plot_enjoyment <- ggplot(df_enjoyment, aes(x = enj_tam,
        y = "Number of articles") +
   scale_x_continuous(breaks = c(-1, 0, 1), labels = c("not enjoyable", "neutral",
                                                       "enjoyable")) +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 14))
 
 plot_enjoyment
 
